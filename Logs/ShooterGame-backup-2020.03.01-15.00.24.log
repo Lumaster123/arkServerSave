@@ -1,0 +1,9 @@
+﻿[2020.03.01-13.20.59:162][  0]Log file open, 03/01/20 13:20:59
+[2020.03.01-13.20.59:162][  0]ARK Version: 306.78
+[2020.03.01-13.20.59:162][  0]PID: 4736
+[2020.03.01-13.22.03:288][  0]Primal Game Data Took 62.91 seconds
+[2020.03.01-13.22.19:737][  0]*** Running raw sockets and new net code ***
+[2020.03.01-13.24.00:803][  0]Server: "ARK #808716" has successfully started!
+[2020.03.01-13.24.06:991][  0]Commandline:  Genesis?bRawSockets?MaxPlayers=12?MultiHome=185.239.239.243?Port=27202?QueryPort=27200?RCONEnabled=True?RCONPort=27203?PreventDownloadSurvivors=?PreventDownloadItems=?PreventDownloadDinos=?PreventUploadSurvivors=?PreventUploadItems=?PreventUploadDinos=?AllowFlyerCarryPvE=true -nonetthreading -NoBattlEye -servergamelogincludetribelogs -culture=de -servergamelog -automanagedmods
+[2020.03.01-13.24.06:991][  0]Full Startup: 189.92 seconds (BP compile: 0.00 seconds)
+[2020.03.01-13.24.06:991][  0]Number of cores 3
